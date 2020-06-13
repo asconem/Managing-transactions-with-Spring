@@ -1,0 +1,1 @@
+Builds a JDBC application that makes database operations transactional without having to write specialized JDBC code.
